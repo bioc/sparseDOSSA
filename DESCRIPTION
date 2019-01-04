@@ -1,7 +1,7 @@
 Package: sparseDOSSA
 Type: Package
 Title: Sparse Data Observations for Simulating Synthetic Abundance
-Version: 1.7.0
+Version: 1.7.1
 Date: 2016-10-28
 Author: Boyu Ren<bor158@mail.harvard.edu>, Emma
         Schwager<emma.schwager@gmail.com>, Timothy
@@ -26,5 +26,5 @@ License: MIT + file LICENSE
 VignetteBuilder: knitr
 Suggests: knitr, BiocStyle, BiocGenerics, rmarkdown
 Imports: stats, utils, optparse, MASS, tmvtnorm (>= 1.4.10), MCMCpack
-biocViews: Bayesian, Microbiome, Metagenomics, Software
+biocViews: ImmunoOncology, Bayesian, Microbiome, Metagenomics, Software
 RoxygenNote: 5.0.1
